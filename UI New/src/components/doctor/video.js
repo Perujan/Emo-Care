@@ -42,7 +42,7 @@ export default function Video() {
                 rtcProps={{
                   appId: '15cb7bee7eae4a78a31dc66d95b1f927',
                   channel: 'test',
-                  token: '007eJxTYFB/+anu9qX1gRNa/YIa9Dd5pxhtf91679EqpjtXv3464SSnwGBompxknpSaap6amGqSaG6RaGyYkmxmlmJpmmSYZmlkbqFkmtIQyMgQ9EiMkZEBAkF8FoaS1OISBgYANEkhuw==', // add your token if using app in secured mode
+                  token: '007eJxTYPgvu/i7enjV1Ev3eMoVeuTNn81hnvH412c2rqO6EnuuPf2uwGBompxknpSaap6amGqSaG6RaGyYkmxmlmJpmmSYZmlkvt/GO6UhkJFB38qHlZEBAkF8FoaS1OISBgYAuBEgVw==', // add your token if using app in secured mode
                   role: isHost ? 'host' : 'audience',
                   layout: isPinned ? layout.pin : layout.grid,
                   enableScreensharing: false
